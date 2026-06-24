@@ -6,7 +6,7 @@ Decentralized AI coding agent powered by [0G Compute](https://0g.ai). Describe w
 
 ```bash
 npm install -g 0g-aura
-```
+``` 
 
 Or with npx (no install):
 
